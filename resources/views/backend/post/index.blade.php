@@ -2,7 +2,7 @@
 <div class="card">
     <div class="card-header d-flex justify-content-between">
         <h5>Post Details</h5>
-        <a href="" class="btn btn primary">Create New Post</a>
+        <a href="{{route('post.create')}}" class="btn btn primary">Create New Post</a>
     </div>
     <div class="card-body"></div>
            <table class="table table-light">

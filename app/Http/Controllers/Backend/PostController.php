@@ -20,7 +20,7 @@ class PostController extends Controller
      */
     public function create()
     {
-        //
+      return view('backend.post.create'); 
     }
 
     /**
@@ -28,7 +28,12 @@ class PostController extends Controller
      */
     public function store(Request $request)
     {
-        //
+       // return $request->all(); it is used to show post token
+        $post = new post();
+        $post->name = $request-> name;
+        $post->slug = $request-> slug;
+        $post-> save();
+        return redirect ()-> back ();
     }
 
     /**

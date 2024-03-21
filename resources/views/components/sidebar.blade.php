@@ -43,5 +43,7 @@
             <li class="dropdown">
                  <a href="{{route('chalani.index')}}" class="nav-link"><i data-feather="command"></i><span>Chalani</span></a>
             </li>
-    
+            </ul>
+    </aside>
+</div>
         
