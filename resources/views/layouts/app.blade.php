@@ -177,7 +177,7 @@
       
       <!-- Main Content -->
       <div class="main-content">
-      {{$slot}}
+          {{$slot}}
       </div>
 
       <footer class="main-footer">

@@ -12,7 +12,7 @@ class SupServiceController extends Controller
      */
     public function index()
     {
-        //
+        return view('backend.supservice.index');
     }
 
     /**

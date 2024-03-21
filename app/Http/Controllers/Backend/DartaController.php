@@ -12,7 +12,7 @@ class DartaController extends Controller
      */
     public function index()
     {
-        //
+        return view('backend.darta.index');
     }
 
     /**

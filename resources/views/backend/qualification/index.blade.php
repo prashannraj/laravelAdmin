@@ -9,7 +9,7 @@
                 <thead class="thead-light">
                     <tr>
                         <th>SN</th>
-                        <th>University Name</th>
+                        <th>Qualification Name</th>
                         
                         <th>Action</th>
                     </tr>

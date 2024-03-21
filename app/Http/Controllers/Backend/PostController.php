@@ -12,7 +12,7 @@ class PostController extends Controller
      */
     public function index()
     {
-        return "you are here";
+       return view('backend.post.index');
     }
 
     /**

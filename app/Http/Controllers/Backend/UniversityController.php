@@ -12,7 +12,7 @@ class UniversityController extends Controller
      */
     public function index()
     {
-        //
+        return view('backend.university.index');
     }
 
     /**

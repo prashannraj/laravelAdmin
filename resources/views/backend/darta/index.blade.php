@@ -9,8 +9,12 @@
                 <thead class="thead-light">
                     <tr>
                         <th>SN</th>
-                        <th>University Name</th>
-                        
+                        <th>Darta Number</th>
+                        <th>Date</th>
+                        <th>Particular</th>
+                        <th>Subject</th>
+                        <th>Related Section</th>
+                        <th>Image</th>
                         <th>Action</th>
                     </tr>
                 </thead>

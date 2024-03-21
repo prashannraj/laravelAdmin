@@ -12,7 +12,7 @@ class ChalaniController extends Controller
      */
     public function index()
     {
-        //
+        return view('backend.chalani.index');
     }
 
     /**

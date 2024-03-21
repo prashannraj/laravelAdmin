@@ -12,7 +12,7 @@ class QuataController extends Controller
      */
     public function index()
     {
-        //
+        return view('backend.quata.index');
     }
 
     /**
